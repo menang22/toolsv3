@@ -41,7 +41,9 @@ os.system('cd tembaktembakan')
 os.system('python dor.py')
 
 os.system('toilet -f standard -F gay "Toolsv3"')
-print("'-=[MyTools]=-
+os.system('sleep 2')
+os.system('clear') 
+print("'-=[Toolsv3]=-
 
   [Menu]
 [1.]Cek ip
